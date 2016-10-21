@@ -29,7 +29,7 @@
 						<tr>
 							<td width="20"><a
 								href="<c:url value='countryForm.html?id=${country.id}'/>"> <img
-									src="/home/bridgelabz/MavenProject/HelloWorld/src/main/webapp/publicHtml/images/edit.gif" style="border-style: none;" />
+									src="http://localhost:9875/Shwetali/edit.gif" style="border-style: none;" />
 							</a></td>
 							<td><a href="countryDetails.html?id=${country.id}">
 									${country.name} </a></td>
