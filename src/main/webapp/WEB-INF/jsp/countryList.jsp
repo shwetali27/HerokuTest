@@ -29,7 +29,7 @@
 						<tr>
 							<td width="20"><a
 								href="<c:url value='countryForm.html?id=${country.id}'/>"> <img
-									src="http://localhost:9875/Shwetali/edit.gif" style="border-style: none;" />
+									src="http://freevector.co/wp-content/uploads/2012/01/63358-pencil-and-paper.png" style="width:20px;height:20px"; />
 							</a></td>
 							<td><a href="countryDetails.html?id=${country.id}">
 									${country.name} </a></td>
